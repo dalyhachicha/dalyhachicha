@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Daly - [Portfolio][website]  
+# 👋 Hi there, I'm Daly - [Portfolio][website]  
 
 ## I'm a Developer 
 
